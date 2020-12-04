@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Con_BinaryOption:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99debdaf-a466-4e00-a03a-b3e007de6b76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cF8cCScsKgGDM1hoaJRMHKSrYz" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/projects/javaP" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sys.set" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\java\Con_BinaryOption\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RunWin">
+    <configuration name="AnsweringData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sys.set.AnsweringData" />
+      <module name="Con_BinaryOption" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sys.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FtpConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sys.net.FtpConnect" />
+      <module name="Con_BinaryOption" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sys.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineChartWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sys.win.LineChartWin" />
+      <module name="Con_BinaryOption" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sys.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="Con_BinaryOption" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sys.win.RunWin" />
+      <module name="Con_BinaryOption" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sys.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunWin" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AnsweringData" />
+        <item itemvalue="Application.FtpConnect" />
+        <item itemvalue="Application.LineChartWin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7b12c9e8" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99debdaf-a466-4e00-a03a-b3e007de6b76" name="Default Changelist" comment="" />
+      <created>1590113057051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590113057051</updated>
+      <workItem from="1590113067775" duration="13794000" />
+      <workItem from="1590130105897" duration="589000" />
+      <workItem from="1590161829660" duration="2392000" />
+      <workItem from="1590192823321" duration="903000" />
+      <workItem from="1590193742200" duration="11554000" />
+      <workItem from="1590375542648" duration="4936000" />
+      <workItem from="1590415060689" duration="7610000" />
+      <workItem from="1590452769947" duration="6729000" />
+      <workItem from="1590542835912" duration="67000" />
+      <workItem from="1590630391850" duration="962000" />
+      <workItem from="1590636018255" duration="1864000" />
+      <workItem from="1590715643406" duration="30000" />
+      <workItem from="1590716601381" duration="6026000" />
+      <workItem from="1590729909794" duration="1062000" />
+      <workItem from="1590730987675" duration="17839000" />
+      <workItem from="1590799341464" duration="2115000" />
+      <workItem from="1597889913252" duration="522000" />
+      <workItem from="1597890531664" duration="587000" />
+      <workItem from="1598015990511" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="date" language="JAVA" />
+        <watch expression="date.getYear()" language="JAVA" />
+        <watch expression="date.getMonth()" language="JAVA" />
+        <watch expression="date.getCalendarDate()" language="JAVA" />
+        <watch expression="date.getDay()" language="JAVA" />
+        <watch expression="date.getDate()" language="JAVA" />
+        <watch expression="p" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
