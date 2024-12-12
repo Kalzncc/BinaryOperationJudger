@@ -11,9 +11,9 @@ import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
 public class AboutWin extends JDialog{
-	//static final String heString = "	本程序由软工二班软件构造小组\n	 齐福领	    马明皓\n	               协作完成";
-	static final String heString = "本程序由软工二班软件构造小组";
-	static final String miString = "  齐福领  马明皓  协作完成";
+	//static final String heString = "	本程序由软工二班软件构造小组\n	 某某某	    某某某\n	               协作完成";
+	static final String heString = "本程序由某某某班软件构造小组";
+	static final String miString = "  某某某  某某某  协作完成";
 	public static void main(String[] args) {
 
 	}
